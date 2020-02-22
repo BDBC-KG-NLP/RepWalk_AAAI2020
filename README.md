@@ -1,6 +1,6 @@
 # RepWalk
 
-Dataset and code for our AAAI 2020 paper "Replicate, Walk, and Stop on Syntax: an Effective Neural Network Model for Aspect-Level Sentiment Classification"
+Dataset and code for our AAAI 2020 paper "Replicate, Walk, and Stop on Syntax: an Effective Neural Network Model for Aspect-Level Sentiment Classification" [[pdf]](paper.pdf)
 
 ## Requirement
 
